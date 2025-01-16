@@ -46,10 +46,6 @@ The EdTech startup wanted to:
 
 - EdTech_StartUp_Report.pbix  # Power BI Dashboard File
 
-- Data/  # Raw and cleaned data files
-
-- Images/  # Screenshots of the dashboard
-
 ## Conclusion
 
 This dashboard provides actionable insights for the EdTech startup to optimize its recorded lecture offerings. By leveraging the insights, the company can strategically expand its content library, cater to audience preferences, and align with market demands.
