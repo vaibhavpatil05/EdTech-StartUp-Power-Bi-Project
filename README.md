@@ -44,7 +44,7 @@ The EdTech startup wanted to:
 
 - README.md  # Project Overview and Instructions
 
-- Dashboard.pbix  # Power BI Dashboard File
+- EdTech_StartUp_Report.pbix  # Power BI Dashboard File
 
 - Data/  # Raw and cleaned data files
 
